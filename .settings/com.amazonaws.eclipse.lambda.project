@@ -1,0 +1,6 @@
+#Lambda Function Project Metadata
+#Mon May 16 15:54:58 IST 2016
+lastDeploymentFunctionName=MyFunction
+lastDeploymentBucketName=awssiddhartha
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/
+lastInvokeInput={}
